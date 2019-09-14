@@ -15,7 +15,7 @@ Sou parte da coletiva acoso.online, co-fundadora da servidora feministas clandes
 
 [![N|Solid](https://media.giphy.com/media/UH9QKcraNtbxK/giphy.gif)](https://nodesource.com/products/nsolid)
 
-Bot, diminutivo de robot, também conhecido como Internet bot ou web robot, é uma aplicação de software concebido para simular ações humanas repetidas vezes de maneira padrão, da mesma forma como faria um robô. No contexto dos programas de computador, pode ser um utilitário que desempenha tarefas rotineiras ou, num jogo de computador, um adversário com recurso a inteligência artificial.
+Bot, diminutivo de robot, também conhecido como Internet bot ou web robot, é uma aplicação de software concebido para simular ações humanas repetidas vezes de maneira padrão, da mesma forma como faria um robô. No contexto dos programas de computador, pode ser um utilitário que desempenha tarefas rotineiras ou, num jogo de computador, um adversário com recurso a inteligência artificial (Wikipedia).
 
 No Twitter um conjunto de bots é chamado de "granja de bots". Raramente são influentes, mas ajudam a gerar termos em "trending topics" - termos que o Twitter considera "quentes" em certo momento e que são destacados na plataforma - ou a gerar ruído sobre um tema (Chequeado).
 
@@ -23,7 +23,7 @@ No Twitter um conjunto de bots é chamado de "granja de bots". Raramente são in
 
 #### Bots x Trolls
 
-Um troll é alguém focado em criticar e antagonizar de maneira provocativa e depreciativa algo ou alguém. A palavra originalmente se refere a personagens folclóricos que vivem nas cavernas da Escandinávia. (Chequeado)
+Um troll é alguém focado em criticar e antagonizar de maneira provocativa e depreciativa algo ou alguém. A palavra originalmente se refere a personagens folclóricos que vivem nas cavernas da Escandinávia (Chequeado).
 
 <br/><br/>
 
