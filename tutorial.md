@@ -149,7 +149,8 @@ Ferramenta para gerar bots com formas e colores. Coloque o código gerado no htt
 
 https://github.com/derekahmedzai/cheapbotsdonequick
 
-
+- Vários recursos e manuais para criação de bots para Twitter, Youtube, Facebook, etc
+https://botwiki.org/resources/
 
 ### Mantendo o seu anonimato 
 1. Use o navegador Tor para fazer tudo que esteja relacionado ao seu bot, desde a criação de contas até a criação da bot: https://www.torproject.org/pt-BR/download/
@@ -167,7 +168,7 @@ Importante: o Twitter pede número de telefone no cadastro, mas não é obrigat�
 - [Bestiario de bots: un acercamiento a las poéticas de la escritura automática](http://editorial.centroculturadigital.mx/articulo/bestiario-de-bots)
 - [El mundo secreto de los bots](http://www.chequeado.com/investigacion/el-mundo-secreto-de-los-bots-y-los-trolls-y-como-esos-ejercitos-influyen-en-la-politica/)
 - [You auto-complete me: romancing the bot](https://deepdives.in/you-auto-complete-me-romancing-the-bot-f2f16613fec8)
-
+- Regras do Twitter para criação/uso de bots: https://help.twitter.com/pt/rules-and-policies/twitter-automation
 
 
 
