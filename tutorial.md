@@ -104,16 +104,15 @@ Nessa perspectiva, a gramática é um mecanismo finito que permite gerar (engend
 ,"coisa": ["Facebook","o patriarcado","o troll","o sexismo","o racismo", "a lgbtfobia"]
 ,"comque": ["uma tesoura","criptografia","feminismo","crítica","?","?","?"]
 ,"lugar": ["na cozinha","no carro","na rua","na universidade","na escola", "na internet"]
-,"img": ["{img https://media.giphy.com/media/3OpNkNdOgPBr8kCy6h/giphy.gif}", 
-"{img https://media.giphy.com/media/xUA7aO6HnR0VZEGwYE/giphy.gif}", 
-"{img https://media.giphy.com/media/3og0Iw2eUAFbUxhaFy/giphy.gif}", 
-"{img https://media.giphy.com/media/xUA7aYC5BjDQdKsBmU/giphy.gif}", 
-"{img https://media.giphy.com/media/3og0IEk1Eo8LyC7qJa/giphy.gif}", 
-"{img https://media.giphy.com/media/3og0INMgArY0dgzh1S/giphy.gif}", 
-"{img https://media.giphy.com/media/xUA7bbxuQ6RCSYNEg8/giphy.gif}", 
-"{img https://media.giphy.com/media/J344gCW8ZkhylX70kt/giphy.gif}", 
-"{img https://media.giphy.com/media/qvOxlBUEzWQdG/giphy.gif}", 
-"{img https://media.giphy.com/media/3oEhn78yWS0qRJ1Tag/giphy.gif}" ]
+,"img": ["{img https://i.imgur.com/SZxHtog.png}", 
+"{img https://i.imgur.com/GxBC8zo.png}", 
+"{img https://i.imgur.com/bNkrEiF.png}", 
+"{img https://i.imgur.com/Bdoluea.png}", 
+"{img https://i.imgur.com/WntaDhx.png}", 
+"{img https://i.imgur.com/PmZIhcD.png}", 
+"{img https://i.imgur.com/tKjoFN5.png}", 
+"{img https://i.imgur.com/nlv1Lci.png}", 
+"{img https://i.imgur.com/u9gwOj0.png}" ]
 ,"hashtag": ["\n\\#InternetFeminista"]
 } 
 ~~~~
@@ -145,6 +144,10 @@ Imagens: https://giphy.com/laurasalaberry, https://giphy.com/martinascott, https
 - Artbot: http://artbot.combinatorium.com/#!/tracery
 
 Ferramenta para gerar bots com formas e colores. Coloque o código gerado no https://cheapbotsdonequick.com/ e siga os passos do tutorial para publicação do bot no Twitter. 
+
+- Twitter bots com conteúdo dinâmico
+
+https://github.com/derekahmedzai/cheapbotsdonequick
 
 
 
